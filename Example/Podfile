@@ -1,0 +1,6 @@
+use_frameworks!
+target 'YAUIKit_Tests' do
+  pod 'YAUIKit', :path => '../'
+  
+  
+end

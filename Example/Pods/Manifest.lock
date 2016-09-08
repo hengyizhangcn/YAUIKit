@@ -1,0 +1,14 @@
+PODS:
+  - YAUIKit (0.1.0)
+
+DEPENDENCIES:
+  - YAUIKit (from `../`)
+
+EXTERNAL SOURCES:
+  YAUIKit:
+    :path: ../
+
+SPEC CHECKSUMS:
+  YAUIKit: 6421ea25b891da82212b5b743f8788c07905e717
+
+COCOAPODS: 0.39.0
